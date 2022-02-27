@@ -2,7 +2,7 @@
   text-align: center;
 }
 body{
-  background-color: purple;
+  background-color: slateblue;
 }
 
 .App-logo {
@@ -38,4 +38,8 @@ body{
   to {
     transform: rotate(360deg);
   }
+}
+
+.user-testimonal{
+  font-size: large;
 }
